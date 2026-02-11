@@ -9,7 +9,7 @@ This project analyzes literacy rates and educational enrollments by state and ge
 - *Student Name:* Mohammad Irfan
 - *Branch:* Information Technology
 - *Institution:* Chaitanya Bharathi Institute Of Technology, Gandipet, Hyderabad
-- *Linked In :* www.linkedin.com/in/mohammad-irfan-553b62328
+- *Linked In :* www.linkedin.com/in/mdirfan01729
 
 ## Dataset
 The dataset contains literacy rates and enrollment numbers segmented by state, gender, age, and year.  
